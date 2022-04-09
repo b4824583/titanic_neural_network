@@ -1,6 +1,6 @@
 # titanic_neural_network
 neural network 6-3-3-1 pratice
-#technique
+# technique
 multi-layer perceptrons
 # implement
 without tensorflow ,pytorch,keras only numpy
