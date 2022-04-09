@@ -1,5 +1,5 @@
 # titanic_neural_network
-neural network 6-3-3-1 pratice
+neural network 6-3-3-1 
 # technique
 multi-layer perceptrons
 # implement
