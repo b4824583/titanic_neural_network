@@ -1,12 +1,12 @@
-# titanic_neural_network
+# Titanic_neural_network
 neural network 6-3-3-1 
-# technique
+# Technique
 multi-layer perceptrons
-# implement
+# Implement
 without tensorflow ,pytorch,keras only numpy
 不藉由tensorflow,pytorch,keras等套件僅使用numpy來實作
-#  kaggle
+# Kaggle score
 acc:77%
-# refernce
+# Reference
 台大林軒田機器學習技法課程
 https://youtu.be/Z26n4YGNWvQ
