@@ -10,3 +10,5 @@ acc:77%
 # Reference
 台大林軒田機器學習技法課程
 https://youtu.be/Z26n4YGNWvQ
+
+![image](https://github.com/b4824583/titanic_neural_network/blob/main/structure.jpg)
